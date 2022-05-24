@@ -1,0 +1,10 @@
+[package]
+name = "libmp3lame-sys"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[build-dependencies]
+anyhow = "1.0.57"
+bindgen = "0.59.2"
